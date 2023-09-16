@@ -41,6 +41,7 @@ let initialized;
 
 let State = { "None": 0, "Detection": 1, "Recognition": 2, "Edit": 3 };
 
+const fuse = require("Scripts/fuse");
 // Import Events module
 let eventModule = require("./EventModule");
 
@@ -143,15 +144,74 @@ function recognize() {
     let lines = script.ocrController.getDetectedText(boxes);
     // set result to the text component, print each detected text from new line
     // script.outputText.text = lines.join("\n");
-    script.textObject.text = lines.join(" ");
-    Studio.log("Set text to: " + lines.join(" "));
+    // Studio.log("Set text to: " + lines.join(" "));
     // update visuals to display text 
-    updateDetections(boxes, lines);
+    // updateDetections(boxes, lines);
 
     // // print results
-    // for (var i = 0; i < boxes.length; i++) {
-    //     Studio.log(i + ". Text: \"" + lines[i] + "\"" + ", Detected Rectangle " + boxes[i]);
-    // }
+    // const results = fuzzysort.go('ASU', lines[0])
+    // print(results)
+
+    const debris = [
+        "Arizona State",
+        "University",
+        "STUDENT",
+        "FACULTY",
+        "STAFF"
+    ];
+    const smallDebris = [
+        "ASU",
+        "Sun",
+        "Card"
+    ]
+    filtered = [];
+
+    const fs = new fuse(debris, {
+        isCaseSensitive: true,
+        threshold: 0.3
+    });
+    const smFs = new fuse(smallDebris, {
+        isCaseSensitive: true,
+        threshold: 0.5
+    });
+
+    for (let i = 0; i < boxes.length; i++) {
+        // Studio.log(i + ". Text: \"" + lines[i] + "\"" + ", Detected Rectangle " + boxes[i]);
+        if (lines[i].length == 0) continue;
+
+        let result = undefined;
+        if (lines[i].length > 4) {
+            Studio.log("Using large...");
+            result = fs.search(lines[i]);
+        } else {
+            Studio.log("Using small...");
+            result = smFs.search(lines[i]);
+        }
+
+        if (result.length == 0) {
+            filtered.push(lines[i]);
+        } else if (result.length > 0) {
+            Studio.log("Filtered: " + lines[i] + " because matched: " + result[0]["item"])
+        }
+    }
+
+    Studio.log(filtered.toString())
+
+    const numRegex = new RegExp("\d+"); 
+    let contentText = "";
+    let lastBreak = 0;
+    for (let i = 0; i < filtered.length; i++) {
+        if ((contentText.length+filtered[i].length - lastBreak) > 12
+        || numRegex.test(filtered[i])) {
+            lastBreak = contentText.length;
+            contentText += "\n" + filtered[i];
+        } else {
+            contentText += " " + filtered[i];
+        }
+    }
+
+    script.textObject.text = contentText;
+
 
     global.onRecognitionModeEvent.trigger();
 

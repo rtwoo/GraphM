@@ -1,0 +1,38 @@
+{
+    "1694896900772687:10406": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/fuzzysort.js",
+                "hash": "1fc130c972aa56f2732168662967bf02"
+            }
+        }
+    },
+    "1694896900773828:10407": {
+        "IFileManager": {
+            "path": "Files/File_1694896900773828_10407.js"
+        }
+    },
+    "1694896900780331:10408": {
+        "IResourceController": {
+            "name": "fuzzysort",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694896900780362:10409",
+            "fileId": "1694896900773828:10407",
+            "publicId": "1694896900772687:10406",
+            "expected_hash": "1fc130c972aa56f2732168662967bf02"
+        },
+        "IResourceManager": {
+            "uid": "1694896900780362:10409",
+            "name": "Files/File_1694896900773828_10407.js",
+            "flags": 1
+        }
+    },
+    "1694896900780362:10409": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    }
+}

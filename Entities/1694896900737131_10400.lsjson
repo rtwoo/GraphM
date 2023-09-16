@@ -1,0 +1,38 @@
+{
+    "1694896900729145:10398": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/fuse.js",
+                "hash": "de7d60e4a6881074275feca14b84a49d"
+            }
+        }
+    },
+    "1694896900730372:10399": {
+        "IFileManager": {
+            "path": "Files/File_1694896900730372_10399.js"
+        }
+    },
+    "1694896900737131:10400": {
+        "IResourceController": {
+            "name": "fuse",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694896900737170:10401",
+            "fileId": "1694896900730372:10399",
+            "publicId": "1694896900729145:10398",
+            "expected_hash": "de7d60e4a6881074275feca14b84a49d"
+        },
+        "IResourceManager": {
+            "uid": "1694896900737170:10401",
+            "name": "Files/File_1694896900730372_10399.js",
+            "flags": 1
+        }
+    },
+    "1694896900737170:10401": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    }
+}

@@ -2,6 +2,7 @@
     "1582321351178641:2620": {
         "ScriptModulesController": {
             "dependent_module_names": [
+                "fuse",
                 "EventModule"
             ]
         }
@@ -16,7 +17,7 @@
             "uid": "1582321351178641:2620",
             "fileId": "1685457659612907:1002",
             "publicId": "1685457659613247:1100",
-            "expected_hash": "3eeeebbf8ded81e4899d4d5436cd4f4d"
+            "expected_hash": "8e8f51c234a793a49c419aa4fab07b48"
         },
         "IResourceManager": {
             "uid": "1582321351178641:2620",
@@ -33,7 +34,7 @@
         "IResourceController": {
             "public": {
                 "path": "Scripts/Examples/MainController.js",
-                "hash": "3eeeebbf8ded81e4899d4d5436cd4f4d"
+                "hash": "8e8f51c234a793a49c419aa4fab07b48"
             }
         }
     }
