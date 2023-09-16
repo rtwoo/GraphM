@@ -1,0 +1,39 @@
+{
+    "1694903475339146:141534": {
+        "IFileManager": {
+            "path": "Files/File_1694903475339146_141534"
+        }
+    },
+    "1694903475342418:141535": {
+        "IResourceController": {
+            "name": "Particles Emitter Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694903475342425:141536",
+            "fileId": "1694903475339146:141534",
+            "originalId": "1694903475392478:141542",
+            "publicId": "1694903475597798:141549",
+            "expected_hash": "e56c824f9cdd5f1821d501eb0b083de9"
+        },
+        "IResourceManager": {
+            "uid": "1694903475342425:141536",
+            "name": "Files/File_1694903475339146_141534",
+            "flags": 1
+        }
+    },
+    "1694903475392478:141542": {
+        "IFileManager": {
+            "path": "Files/File_1694903475392478_141542.lsmat"
+        }
+    },
+    "1694903475597798:141549": {
+        "IResourceController": {
+            "public": {
+                "path": "Particles/Particles Emitter Material.lsmat",
+                "hash": "dabe6f7a832474474c85a55fa72e60f3"
+            }
+        }
+    }
+}

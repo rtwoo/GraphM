@@ -1,0 +1,44 @@
+{
+    "1694903291604407:89887": {
+        "IResourceController": {
+            "name": "Books",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1694903293747257:90426",
+            "publicId": "1694903293786134:90437",
+            "expected_hash": "4e16e6975d7c24be5e37a4321659555d",
+            "resources": [
+                "1694903293434344:90210",
+                "1694903293685979:90390"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": ""
+            }
+        }
+    },
+    "1694903293747257:90426": {
+        "IFileManager": {
+            "path": "Files/File_1694903293747257_90426.fbx"
+        }
+    },
+    "1694903293786134:90437": {
+        "IResourceController": {
+            "public": {
+                "path": "Books.fbx",
+                "hash": "4e16e6975d7c24be5e37a4321659555d"
+            }
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "1694903475244550:141508": {
+        "IFileManager": {
+            "path": "Files/File_1694903475244550_141508.png"
+        }
+    },
+    "1694903475248237:141509": {
+        "IResourceController": {
+            "name": "Particles Texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694903475249778:141510",
+            "fileId": "1694903475244550:141508",
+            "originalId": "1694903475250400:141515",
+            "publicId": "1694903475279987:141524",
+            "expected_hash": "dc68284cb7adf80339de9f3281a84262",
+            "additional": {
+                "originHash": "b4bcc9a3107b386b1f0b32d6c40455ef",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694903475249778:141510",
+            "name": "Files/File_1694903475244550_141508.jpg",
+            "flags": 1
+        }
+    },
+    "1694903475249778:141510": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1024",
+                        "uncompressed_hash": "b4bcc9a3107b386b1f0b32d6c40455ef"
+                    },
+                    "v": "1694903475819458:141774"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "65536",
+                "compressedSize": "2042",
+                "extension": "png",
+                "originalRAM": "65536",
+                "originalSize": "6343",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1694903475266541:141521"
+        }
+    },
+    "1694903475250400:141515": {
+        "IFileManager": {
+            "path": "Files/File_1694903475250400_141515.png"
+        }
+    },
+    "1694903475266541:141521": {
+        "IFileManager": {
+            "path": "Files/File_1694903475266541_141521.png"
+        }
+    },
+    "1694903475279987:141524": {
+        "IResourceController": {
+            "public": {
+                "path": "Particles/Particles Texture.png",
+                "hash": "b4bcc9a3107b386b1f0b32d6c40455ef"
+            }
+        }
+    },
+    "1694903475819458:141774": {
+        "IFileManager": {
+            "path": "Files/File_1694903475819458_141774.png"
+        }
+    }
+}

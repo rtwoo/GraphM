@@ -1,0 +1,30 @@
+{
+    "1694903319425183:101764": {
+        "IResourceController": {
+            "name": "uploads_files_4379880_gears",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1694903319424938:101671",
+            "fileId": "1694903319473568:101839",
+            "originalId": "1694904501360626:315241",
+            "expected_hash": "1235c40161c0207c8b9e637ef4d90ce3"
+        },
+        "IResourceManager": {
+            "uid": "1694903319424938:101671",
+            "name": "uploads_files_4379880_gears",
+            "flags": 0
+        }
+    },
+    "1694903319473568:101839": {
+        "IFileManager": {
+            "path": "Files/File_1694903319473568_101839.oprfb"
+        }
+    },
+    "1694904501360626:315241": {
+        "IFileManager": {
+            "path": "Files/File_1694904501360626_315241.oprfb"
+        }
+    }
+}

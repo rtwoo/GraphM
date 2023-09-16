@@ -1,0 +1,30 @@
+{
+    "1694903293685979:90390": {
+        "IResourceController": {
+            "name": "Books",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1694903293685889:90359",
+            "fileId": "1694903293738913:90421",
+            "originalId": "1694904501316153:315182",
+            "expected_hash": "8b513f9a323b588155ef8ea6c3bdecb7"
+        },
+        "IResourceManager": {
+            "uid": "1694903293685889:90359",
+            "name": "Books",
+            "flags": 0
+        }
+    },
+    "1694903293738913:90421": {
+        "IFileManager": {
+            "path": "Files/File_1694903293738913_90421.oprfb"
+        }
+    },
+    "1694904501316153:315182": {
+        "IFileManager": {
+            "path": "Files/File_1694904501316153_315182.oprfb"
+        }
+    }
+}

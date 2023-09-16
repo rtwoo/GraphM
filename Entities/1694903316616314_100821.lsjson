@@ -1,0 +1,44 @@
+{
+    "1694903316616314:100821": {
+        "IResourceController": {
+            "name": "uploads_files_4379880_gears",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1694903319498634:101840",
+            "publicId": "1694903319666341:101896",
+            "expected_hash": "7b198bcad0d9485da77a204c8230f1ea",
+            "resources": [
+                "1694903318669986:101184",
+                "1694903319425183:101764"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": ""
+            }
+        }
+    },
+    "1694903319498634:101840": {
+        "IFileManager": {
+            "path": "Files/File_1694903319498634_101840.fbx"
+        }
+    },
+    "1694903319666341:101896": {
+        "IResourceController": {
+            "public": {
+                "path": "uploads_files_4379880_gears.fbx",
+                "hash": "7b198bcad0d9485da77a204c8230f1ea"
+            }
+        }
+    }
+}
