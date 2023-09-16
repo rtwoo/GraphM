@@ -1,0 +1,38 @@
+{
+    "1690842048603129:9896": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Helpers/ImagePickerHelper.js",
+                "hash": "25579f42ad82ecd78e6d32f8c7fd6573"
+            }
+        }
+    },
+    "1690842048603601:9897": {
+        "IFileManager": {
+            "path": "Files/File_1690842048603601_9897.js"
+        }
+    },
+    "1690842048604971:9898": {
+        "IResourceController": {
+            "name": "ImagePickerHelper",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690842048604982:9899",
+            "fileId": "1690842048603601:9897",
+            "publicId": "1690842048603129:9896",
+            "expected_hash": "25579f42ad82ecd78e6d32f8c7fd6573"
+        },
+        "IResourceManager": {
+            "uid": "1690842048604982:9899",
+            "name": "Files/File_1690842048603601_9897.js",
+            "flags": 1
+        }
+    },
+    "1690842048604982:9899": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1690834712300011:798536": {
+        "IResourceController": {
+            "name": "Switcher Button Background Left",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690834712299901:798523",
+            "fileId": "1690834712358279:798554",
+            "originalId": "1690834821169591:845911",
+            "publicId": "1690834712360187:798555",
+            "expected_hash": "c179252b34aa9e3a78194e6c7371f371"
+        },
+        "IResourceManager": {
+            "uid": "1690834712299901:798523",
+            "name": "Switcher Button Background",
+            "flags": 0
+        }
+    },
+    "1690834712358279:798554": {
+        "IFileManager": {
+            "path": "Files/File_1690834712358279_798554.oprfb"
+        }
+    },
+    "1690834712360187:798555": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Components/Prefabs/Switcher Button Background Left.oprfb",
+                "hash": "c656051b9e0e56a4dce3ee9db8bc05c0"
+            }
+        }
+    },
+    "1690834821169591:845911": {
+        "IFileManager": {
+            "path": "Files/File_1690834821169591_845911.oprfb"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "1690825981966978:220084": {
+        "IResourceController": {
+            "name": "Input Render Target",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690825981966970:220083"
+        },
+        "IResourceManager": {
+            "uid": "1690825981966970:220083",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

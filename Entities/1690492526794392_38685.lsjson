@@ -1,0 +1,39 @@
+{
+    "1690492526792519:38684": {
+        "IFileManager": {
+            "path": "Files/File_1690492526792519_38684"
+        }
+    },
+    "1690492526794392:38685": {
+        "IResourceController": {
+            "name": "Frame - 9Slice",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690492526794397:38686",
+            "fileId": "1690492526792519:38684",
+            "originalId": "1690492526815165:38692",
+            "publicId": "1690492526890205:38699",
+            "expected_hash": "a9f2fbce468172507be1a48f7f239786"
+        },
+        "IResourceManager": {
+            "uid": "1690492526794397:38686",
+            "name": "Files/File_1690492526792519_38684",
+            "flags": 1
+        }
+    },
+    "1690492526815165:38692": {
+        "IFileManager": {
+            "path": "Files/File_1690492526815165_38692.lsmat"
+        }
+    },
+    "1690492526890205:38699": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Frame - 9Slice.lsmat",
+                "hash": "37b78aca0ba689058f2a62182c4361b4"
+            }
+        }
+    }
+}

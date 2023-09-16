@@ -1,0 +1,79 @@
+{
+    "1690834476122720:735774": {
+        "IFileManager": {
+            "path": "Files/File_1690834476122720_735774.pvr"
+        }
+    },
+    "1690834476125464:735775": {
+        "IResourceController": {
+            "name": "Image Picker Icon",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690834476126241:735776",
+            "fileId": "1690834476122720:735774",
+            "originalId": "1690834476126711:735781",
+            "publicId": "1690834476136414:735783",
+            "expected_hash": "a8dfc28b21b2a9cb8883d95867cf1ec3",
+            "additional": {
+                "originHash": "99be67d798089dfdc2205c1380b37a6e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1690834476126241:735776",
+            "name": "Files/File_1690834476122720_735774.png",
+            "flags": 1
+        }
+    },
+    "1690834476126241:735776": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "99be67d798089dfdc2205c1380b37a6e"
+                    },
+                    "v": "1690834559998131:765556"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "12800",
+                "compressedSize": "1490",
+                "extension": "png",
+                "originalRAM": "102400",
+                "originalSize": "2263",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1690834559523941:765531"
+        }
+    },
+    "1690834476126711:735781": {
+        "IFileManager": {
+            "path": "Files/File_1690834476126711_735781.png"
+        }
+    },
+    "1690834476136414:735783": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Image Picker Icon.png",
+                "hash": "99be67d798089dfdc2205c1380b37a6e"
+            }
+        }
+    },
+    "1690834559523941:765531": {
+        "IFileManager": {
+            "path": "Files/File_1690834559523941_765531.png"
+        }
+    },
+    "1690834559998131:765556": {
+        "IFileManager": {
+            "path": "Files/File_1690834559998131_765556.pvr"
+        }
+    }
+}

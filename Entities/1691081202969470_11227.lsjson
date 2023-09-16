@@ -1,0 +1,32 @@
+{
+    "1691081202967913:11226": {
+        "IFileManager": {
+            "path": "Files/File_1691081202967913_11226.js"
+        }
+    },
+    "1691081202969470:11227": {
+        "IResourceController": {
+            "name": "UI Scroll View",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1691081202969484:11228",
+            "fileId": "1691081202967913:11226",
+            "expected_hash": "d6b333b096d0306af0595fe4b26a8ec4"
+        },
+        "IResourceManager": {
+            "uid": "1691081202969484:11228",
+            "name": "Files/File_1691081202967913_11226.js",
+            "flags": 1
+        }
+    },
+    "1691081202969484:11228": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "EventModule_101",
+                "DestructionHelper_100"
+            ]
+        }
+    }
+}

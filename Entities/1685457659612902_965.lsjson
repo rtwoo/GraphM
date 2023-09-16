@@ -1,0 +1,40 @@
+{
+    "1582321351178641:2620": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "EventModule"
+            ]
+        }
+    },
+    "1685457659612902:965": {
+        "IResourceController": {
+            "name": "MainController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1582321351178641:2620",
+            "fileId": "1685457659612907:1002",
+            "publicId": "1685457659613247:1100",
+            "expected_hash": "31a64dd9c4cb944aba6d38ed783056bf"
+        },
+        "IResourceManager": {
+            "uid": "1582321351178641:2620",
+            "name": "Files/File_1685457659612907_1002.js",
+            "flags": 1
+        }
+    },
+    "1685457659612907:1002": {
+        "IFileManager": {
+            "path": "Files/File_1685457659612907_1002.js"
+        }
+    },
+    "1685457659613247:1100": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Examples/MainController.js",
+                "hash": "31a64dd9c4cb944aba6d38ed783056bf"
+            }
+        }
+    }
+}

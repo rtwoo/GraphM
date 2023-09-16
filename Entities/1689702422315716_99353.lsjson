@@ -1,0 +1,43 @@
+{
+    "1689702422309136:99352": {
+        "IFileManager": {
+            "path": "Files/File_1689702422309136_99352"
+        }
+    },
+    "1689702422315716:99353": {
+        "IResourceController": {
+            "name": "HINT_point_at_text",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1689702422318098:99356",
+            "fileId": "1689702422309136:99352",
+            "originalId": "1689702422327874:99363",
+            "publicId": "1689702422359529:99373",
+            "expected_hash": "3acd8f819b7fd111c9833b7efd934849",
+            "additional": {
+                "subtype": "5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1689702422318098:99356",
+            "name": "Files/File_1689702422309136_99352",
+            "flags": 1
+        }
+    },
+    "1689702422327874:99363": {
+        "IFileManager": {
+            "path": "Files/File_1689702422327874_99363"
+        }
+    },
+    "1689702422359529:99373": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Hint Resources/Resources/Textures/Animated/HINT_point_at_text",
+                "hash": "3acd8f819b7fd111c9833b7efd934849",
+                "complexResourceHash": "a9025f5524d516d139980a636ee1a18a"
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1691081202973536:11251": {
+        "IFileManager": {
+            "path": "Files/File_1691081202973536_11251"
+        }
+    },
+    "1691081202975741:11252": {
+        "IResourceController": {
+            "name": "Scroll Bar Background",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1691081202975745:11253",
+            "fileId": "1691081202973536:11251",
+            "originalId": "1691081202997653:11257",
+            "expected_hash": "ff68ff385f1735d6447398664d74bf2d"
+        },
+        "IResourceManager": {
+            "uid": "1691081202975745:11253",
+            "name": "Files/File_1691081202973536_11251",
+            "flags": 1
+        }
+    },
+    "1691081202997653:11257": {
+        "IFileManager": {
+            "path": "Files/File_1691081202997653_11257.lsmat"
+        }
+    }
+}

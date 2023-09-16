@@ -1,0 +1,39 @@
+{
+    "1690502843482679:8733": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Black Semitransparent.lsmat",
+                "hash": "eb77e031c301fa238d00e03a9aaa81af"
+            }
+        }
+    },
+    "1690502843519339:8740": {
+        "IFileManager": {
+            "path": "Files/File_1690502843519339_8740"
+        }
+    },
+    "1690502843521069:8741": {
+        "IResourceController": {
+            "name": "Black Semitransparent",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690502843521072:8742",
+            "fileId": "1690502843519339:8740",
+            "originalId": "1690502843542668:8746",
+            "publicId": "1690502843482679:8733",
+            "expected_hash": "be917b6221599ab136249b07f12d7ad6"
+        },
+        "IResourceManager": {
+            "uid": "1690502843521072:8742",
+            "name": "Files/File_1690502843519339_8740",
+            "flags": 1
+        }
+    },
+    "1690502843542668:8746": {
+        "IFileManager": {
+            "path": "Files/File_1690502843542668_8746.lsmat"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1690866382367460:2423416": {
+        "IFileManager": {
+            "path": "Files/File_1690866382367460_2423416.pvr"
+        }
+    },
+    "1690866382369976:2423418": {
+        "IResourceController": {
+            "name": "Base Circle",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690866382370992:2423419",
+            "fileId": "1690866382367460:2423416",
+            "originalId": "1690866382371468:2423424",
+            "publicId": "1690866382481723:2423426",
+            "expected_hash": "2006212e7b398c9bcf06c5276edd2199",
+            "additional": {
+                "originHash": "e9bd31c55a686b27c1637be4516237ca"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1690866382370992:2423419",
+            "name": "Files/File_1690866382367460_2423416.png",
+            "flags": 1
+        }
+    },
+    "1690866382370992:2423419": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "e9bd31c55a686b27c1637be4516237ca"
+                    },
+                    "v": "1690866383052294:2426718"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "57800",
+                "compressedSize": "3831",
+                "extension": "png",
+                "originalRAM": "462400",
+                "originalSize": "4896",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1690866382375171:2423425"
+        }
+    },
+    "1690866382371468:2423424": {
+        "IFileManager": {
+            "path": "Files/File_1690866382371468_2423424.png"
+        }
+    },
+    "1690866382375171:2423425": {
+        "IFileManager": {
+            "path": "Files/File_1690866382375171_2423425.png"
+        }
+    },
+    "1690866382481723:2423426": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Base Circle.png",
+                "hash": "e9bd31c55a686b27c1637be4516237ca"
+            }
+        }
+    },
+    "1690866383052294:2426718": {
+        "IFileManager": {
+            "path": "Files/File_1690866383052294_2426718.pvr"
+        }
+    }
+}

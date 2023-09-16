@@ -1,0 +1,38 @@
+{
+    "1690847841404049:1149074": {
+        "IFileManager": {
+            "path": "Files/File_1690847841404049_1149074.js"
+        }
+    },
+    "1690847841406933:1149075": {
+        "IResourceController": {
+            "name": "KeyboardHelper",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690847841406946:1149076",
+            "fileId": "1690847841404049:1149074",
+            "publicId": "1690847841409480:1149081",
+            "expected_hash": "ec2f1649563ee6c3e999d144263d13e6"
+        },
+        "IResourceManager": {
+            "uid": "1690847841406946:1149076",
+            "name": "Files/File_1690847841404049_1149074.js",
+            "flags": 1
+        }
+    },
+    "1690847841406946:1149076": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1690847841409480:1149081": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Helpers/KeyboardHelper.js",
+                "hash": "ec2f1649563ee6c3e999d144263d13e6"
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1690834662804070:780516": {
+        "IFileManager": {
+            "path": "Files/File_1690834662804070_780516.pvr"
+        }
+    },
+    "1690834662805826:780517": {
+        "IResourceController": {
+            "name": "Switcher Button",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690834662806866:780518",
+            "fileId": "1690834662804070:780516",
+            "originalId": "1690834662807242:780523",
+            "publicId": "1690834662816346:780525",
+            "expected_hash": "d7a520afec7823a818e357786012c73d",
+            "additional": {
+                "originHash": "2e48367a90fa7e225104df4b330aa3c4"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1690834662806866:780518",
+            "name": "Files/File_1690834662804070_780516.png",
+            "flags": 1
+        }
+    },
+    "1690834662806866:780518": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "2e48367a90fa7e225104df4b330aa3c4"
+                    },
+                    "v": "1690834663227326:783340"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "24576",
+                "compressedSize": "2705",
+                "extension": "png",
+                "originalRAM": "196608",
+                "originalSize": "4335",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1690834662810566:780524"
+        }
+    },
+    "1690834662807242:780523": {
+        "IFileManager": {
+            "path": "Files/File_1690834662807242_780523.png"
+        }
+    },
+    "1690834662810566:780524": {
+        "IFileManager": {
+            "path": "Files/File_1690834662810566_780524.png"
+        }
+    },
+    "1690834662816346:780525": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Switcher Button.png",
+                "hash": "2e48367a90fa7e225104df4b330aa3c4"
+            }
+        }
+    },
+    "1690834663227326:783340": {
+        "IFileManager": {
+            "path": "Files/File_1690834663227326_783340.pvr"
+        }
+    }
+}

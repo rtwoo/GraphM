@@ -1,0 +1,33 @@
+{
+    "1694884787929783:10396": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Hint Resources/Resources/Textures/Animated/Resource.ds_store",
+                "hash": "63ab8b72cd34ee3ab25200ffe563e513"
+            }
+        }
+    },
+    "1694884787930842:10397": {
+        "IFileManager": {
+            "path": "Files/File_1694884787930842_10397.ds_store"
+        }
+    },
+    "1694884787934440:10398": {
+        "IResourceController": {
+            "name": "Resource",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694884787934471:10399",
+            "fileId": "1694884787930842:10397",
+            "publicId": "1694884787929783:10396",
+            "expected_hash": "63ab8b72cd34ee3ab25200ffe563e513"
+        },
+        "IResourceManager": {
+            "uid": "1694884787934471:10399",
+            "name": "Files/File_1694884787930842_10397.ds_store",
+            "flags": 1
+        }
+    }
+}

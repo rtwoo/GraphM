@@ -1,0 +1,40 @@
+{
+    "1691002338153565:1269531": {
+        "IFileManager": {
+            "path": "Files/File_1691002338153565_1269531.js"
+        }
+    },
+    "1691002338155106:1269532": {
+        "IResourceController": {
+            "name": "ImagePickerButtonHelper",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691002338155114:1269533",
+            "fileId": "1691002338153565:1269531",
+            "publicId": "1691002338159638:1269543",
+            "expected_hash": "e9ffd95fac3744425f8b4e4a208b08f3"
+        },
+        "IResourceManager": {
+            "uid": "1691002338155114:1269533",
+            "name": "Files/File_1691002338153565_1269531.js",
+            "flags": 1
+        }
+    },
+    "1691002338155114:1269533": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "EventModule"
+            ]
+        }
+    },
+    "1691002338159638:1269543": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Helpers/ImagePickerButtonHelper.js",
+                "hash": "e9ffd95fac3744425f8b4e4a208b08f3"
+            }
+        }
+    }
+}

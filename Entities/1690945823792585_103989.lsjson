@@ -1,0 +1,33 @@
+{
+    "1690945823789528:103988": {
+        "IFileManager": {
+            "path": "Files/File_1690945823789528_103988.ttf"
+        }
+    },
+    "1690945823792585:103989": {
+        "IResourceController": {
+            "name": "Poppins-SemiBold",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690945823792595:103990",
+            "fileId": "1690945823789528:103988",
+            "publicId": "1690945823794045:103995",
+            "expected_hash": "6f1520d107205975713ba09df778f93f"
+        },
+        "IResourceManager": {
+            "uid": "1690945823792595:103990",
+            "name": "Files/File_1690945823789528_103988.ttf",
+            "flags": 1
+        }
+    },
+    "1690945823794045:103995": {
+        "IResourceController": {
+            "public": {
+                "path": "Fonts/Poppins-SemiBold.ttf",
+                "hash": "6f1520d107205975713ba09df778f93f"
+            }
+        }
+    }
+}

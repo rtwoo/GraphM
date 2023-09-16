@@ -1,0 +1,79 @@
+{
+    "1691003269561166:1522990": {
+        "IFileManager": {
+            "path": "Files/File_1691003269561166_1522990.pvr"
+        }
+    },
+    "1691003269562651:1522991": {
+        "IResourceController": {
+            "name": "Camera Feed Icon",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691003269563278:1522992",
+            "fileId": "1691003269561166:1522990",
+            "originalId": "1691003269564148:1522997",
+            "publicId": "1691003269647180:1523001",
+            "expected_hash": "7fa3148e19a0aaad52a8408037e55b9c",
+            "additional": {
+                "originHash": "46a88e15a05246b917f67b929cbb2bdd"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691003269563278:1522992",
+            "name": "Files/File_1691003269561166_1522990.png",
+            "flags": 1
+        }
+    },
+    "1691003269563278:1522992": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "46a88e15a05246b917f67b929cbb2bdd"
+                    },
+                    "v": "1691003269741259:1523010"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "12800",
+                "compressedSize": "2166",
+                "extension": "png",
+                "originalRAM": "102400",
+                "originalSize": "2913",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691003269566665:1522998"
+        }
+    },
+    "1691003269564148:1522997": {
+        "IFileManager": {
+            "path": "Files/File_1691003269564148_1522997.png"
+        }
+    },
+    "1691003269566665:1522998": {
+        "IFileManager": {
+            "path": "Files/File_1691003269566665_1522998.png"
+        }
+    },
+    "1691003269647180:1523001": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Camera Feed Icon.png",
+                "hash": "46a88e15a05246b917f67b929cbb2bdd"
+            }
+        }
+    },
+    "1691003269741259:1523010": {
+        "IFileManager": {
+            "path": "Files/File_1691003269741259_1523010.pvr"
+        }
+    }
+}

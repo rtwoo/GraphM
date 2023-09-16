@@ -1,0 +1,39 @@
+{
+    "1687963984794681:5402197": {
+        "IFileManager": {
+            "path": "Files/File_1687963984794681_5402197"
+        }
+    },
+    "1687963984796469:5402198": {
+        "IResourceController": {
+            "name": "Detection Outline - 9Slice",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687963984796472:5402199",
+            "fileId": "1687963984794681:5402197",
+            "originalId": "1687963984827125:5402205",
+            "publicId": "1687963985513541:5402283",
+            "expected_hash": "f1c0151b89969642d73b932fc7d0bb6f"
+        },
+        "IResourceManager": {
+            "uid": "1687963984796472:5402199",
+            "name": "Files/File_1687963984794681_5402197",
+            "flags": 1
+        }
+    },
+    "1687963984827125:5402205": {
+        "IFileManager": {
+            "path": "Files/File_1687963984827125_5402205.lsmat"
+        }
+    },
+    "1687963985513541:5402283": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Detection Outline - 9Slice.lsmat",
+                "hash": "66550e1cf9482ee01e421d773bba00d8"
+            }
+        }
+    }
+}

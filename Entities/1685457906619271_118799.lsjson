@@ -1,0 +1,23 @@
+{
+    "1685457906619271:118799": {
+        "IResourceController": {
+            "name": "ML Models [SWAP]",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1685457906619495:118800",
+            "resources": [
+                "1685457659612907:997",
+                "1685457659612907:998"
+            ]
+        }
+    },
+    "1685457906619495:118800": {
+        "IResourceController": {
+            "public": {
+                "path": "ML Models [SWAP]"
+            }
+        }
+    }
+}

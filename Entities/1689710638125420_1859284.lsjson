@@ -1,0 +1,22 @@
+{
+    "1689710638125420:1859284": {
+        "IResourceController": {
+            "name": "Overlay Render Target",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1689710638125417:1859283",
+            "additional": {
+                "resourceInfoExportKey": {
+                    "RenderTargetRole": "1"
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1689710638125417:1859283",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

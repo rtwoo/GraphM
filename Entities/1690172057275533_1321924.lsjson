@@ -1,0 +1,79 @@
+{
+    "1690172057269314:1321921": {
+        "IFileManager": {
+            "path": "Files/File_1690172057269314_1321921.pvr"
+        }
+    },
+    "1690172057275533:1321924": {
+        "IResourceController": {
+            "name": "Edit Icon",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690172057276945:1321925",
+            "fileId": "1690172057269314:1321921",
+            "originalId": "1690172057277887:1321930",
+            "publicId": "1690172057310960:1321933",
+            "expected_hash": "2c68050ed6c7c056fa6dddb6521140a9",
+            "additional": {
+                "originHash": "02fd2b009a3d0a03c842b5b93c6e5353"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1690172057276945:1321925",
+            "name": "Files/File_1690172057269314_1321921.png",
+            "flags": 1
+        }
+    },
+    "1690172057276945:1321925": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "02fd2b009a3d0a03c842b5b93c6e5353"
+                    },
+                    "v": "1690172057659899:1321949"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "18432",
+                "compressedSize": "1093",
+                "extension": "png",
+                "originalRAM": "147456",
+                "originalSize": "1573",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1690172057289381:1321931"
+        }
+    },
+    "1690172057277887:1321930": {
+        "IFileManager": {
+            "path": "Files/File_1690172057277887_1321930.png"
+        }
+    },
+    "1690172057289381:1321931": {
+        "IFileManager": {
+            "path": "Files/File_1690172057289381_1321931.png"
+        }
+    },
+    "1690172057310960:1321933": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Edit Icon.png",
+                "hash": "02fd2b009a3d0a03c842b5b93c6e5353"
+            }
+        }
+    },
+    "1690172057659899:1321949": {
+        "IFileManager": {
+            "path": "Files/File_1690172057659899_1321949.pvr"
+        }
+    }
+}

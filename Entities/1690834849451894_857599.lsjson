@@ -1,0 +1,39 @@
+{
+    "1690834849451894:857599": {
+        "IResourceController": {
+            "name": "Switcher Button Background Right",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690834849451764:857586",
+            "fileId": "1690834849517286:857617",
+            "originalId": "1690834865274678:870359",
+            "publicId": "1690834849519422:857618",
+            "expected_hash": "eb142ec901696e0a1c60f75a23590d4a"
+        },
+        "IResourceManager": {
+            "uid": "1690834849451764:857586",
+            "name": "Switcher Button Background Right",
+            "flags": 0
+        }
+    },
+    "1690834849517286:857617": {
+        "IFileManager": {
+            "path": "Files/File_1690834849517286_857617.oprfb"
+        }
+    },
+    "1690834849519422:857618": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Components/Prefabs/Switcher Button Background Right.oprfb",
+                "hash": "164875922b8183e1d2ab50e26e7ac119"
+            }
+        }
+    },
+    "1690834865274678:870359": {
+        "IFileManager": {
+            "path": "Files/File_1690834865274678_870359.oprfb"
+        }
+    }
+}

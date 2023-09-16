@@ -1,0 +1,66 @@
+{
+    "1690825278761542:9518": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Frame.png",
+                "hash": "9e2924a034375099d8895aa997c4aae8"
+            }
+        }
+    },
+    "1690825278762801:9519": {
+        "IFileManager": {
+            "path": "Files/File_1690825278762801_9519.png"
+        }
+    },
+    "1690825278764584:9520": {
+        "IResourceController": {
+            "name": "Frame",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690825278765619:9521",
+            "fileId": "1690825278762801:9519",
+            "originalId": "1690825278765927:9526",
+            "publicId": "1690825278761542:9518",
+            "expected_hash": "9e2924a034375099d8895aa997c4aae8",
+            "additional": {
+                "originHash": "9e2924a034375099d8895aa997c4aae8"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1690825278765619:9521",
+            "name": "Files/File_1690825278762801_9519.png",
+            "flags": 1
+        }
+    },
+    "1690825278765619:9521": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "6969600",
+                "compressedSize": "21295",
+                "extension": "png",
+                "originalRAM": "6969600",
+                "originalSize": "21295",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1690834950288965:894380"
+        }
+    },
+    "1690825278765927:9526": {
+        "IFileManager": {
+            "path": "Files/File_1690825278765927_9526.png"
+        }
+    },
+    "1690834950288965:894380": {
+        "IFileManager": {
+            "path": "Files/File_1690834950288965_894380.png"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1691081203076186:11284": {
+        "IFileManager": {
+            "path": "Files/File_1691081203076186_11284.png"
+        }
+    },
+    "1691081203077764:11285": {
+        "IResourceController": {
+            "name": "Base Rect Panel",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1691081203078037:11286",
+            "fileId": "1691081203076186:11284",
+            "originalId": "1691081203078315:11291",
+            "expected_hash": "0751791c0314949728e1a731efa6a790",
+            "additional": {
+                "originHash": "0751791c0314949728e1a731efa6a790"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691081203078037:11286",
+            "name": "Files/File_1691081203076186_11284.jpg",
+            "flags": 1
+        }
+    },
+    "1691081203078315:11291": {
+        "IFileManager": {
+            "path": "Files/File_1691081203078315_11291.png"
+        }
+    }
+}

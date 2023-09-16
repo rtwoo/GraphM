@@ -1,0 +1,38 @@
+{
+    "1659081502631076:73916": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1685457659612906:995": {
+        "IResourceController": {
+            "name": "CharacterMap",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1659081502631076:73916",
+            "fileId": "1685457659613001:1063",
+            "publicId": "1685457659613257:1121",
+            "expected_hash": "9557936771580694f4a643e84a02ac89"
+        },
+        "IResourceManager": {
+            "uid": "1659081502631076:73916",
+            "name": "Files/File_1685457659613001_1063.js",
+            "flags": 1
+        }
+    },
+    "1685457659613001:1063": {
+        "IFileManager": {
+            "path": "Files/File_1685457659613001_1063.js"
+        }
+    },
+    "1685457659613257:1121": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Modules/CharacterMap.js",
+                "hash": "9557936771580694f4a643e84a02ac89"
+            }
+        }
+    }
+}

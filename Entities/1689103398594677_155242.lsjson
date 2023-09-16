@@ -1,0 +1,39 @@
+{
+    "1689103398594677:155242": {
+        "IResourceController": {
+            "name": "Button Text",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1689103398594568:155232",
+            "fileId": "1689103398621032:155252",
+            "originalId": "1689105352752721:472768",
+            "publicId": "1689103398622834:155253",
+            "expected_hash": "3c651d596357e5695fddd55e993ffbc2"
+        },
+        "IResourceManager": {
+            "uid": "1689103398594568:155232",
+            "name": "Text",
+            "flags": 0
+        }
+    },
+    "1689103398621032:155252": {
+        "IFileManager": {
+            "path": "Files/File_1689103398621032_155252.oprfb"
+        }
+    },
+    "1689103398622834:155253": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Components/Prefabs/Button Text.oprfb",
+                "hash": "c5b60d2c2221b1885d3df7f63b121001"
+            }
+        }
+    },
+    "1689105352752721:472768": {
+        "IFileManager": {
+            "path": "Files/File_1689105352752721_472768.oprfb"
+        }
+    }
+}

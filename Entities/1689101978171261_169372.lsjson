@@ -1,0 +1,39 @@
+{
+    "1689101978169923:169371": {
+        "IFileManager": {
+            "path": "Files/File_1689101978169923_169371"
+        }
+    },
+    "1689101978171261:169372": {
+        "IResourceController": {
+            "name": "Scroll Bar - 9Slice",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1689101978171264:169373",
+            "fileId": "1689101978169923:169371",
+            "originalId": "1689101978192020:169380",
+            "publicId": "1689101978269560:169393",
+            "expected_hash": "caac8fdd8728e4f0aa80f273a90da4d8"
+        },
+        "IResourceManager": {
+            "uid": "1689101978171264:169373",
+            "name": "Files/File_1689101978169923_169371",
+            "flags": 1
+        }
+    },
+    "1689101978192020:169380": {
+        "IFileManager": {
+            "path": "Files/File_1689101978192020_169380.lsmat"
+        }
+    },
+    "1689101978269560:169393": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Scroll Bar - 9Slice.lsmat",
+                "hash": "305471378a7804c231d26ed942eb1535"
+            }
+        }
+    }
+}

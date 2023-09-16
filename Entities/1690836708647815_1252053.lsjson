@@ -1,0 +1,17 @@
+{
+    "1690836708647815:1252053": {
+        "IResourceController": {
+            "name": "Media Picker",
+            "type": 1,
+            "subtype": 25,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690836708647811:1252052"
+        },
+        "IResourceManager": {
+            "uid": "1690836708647811:1252052",
+            "name": "Media Picker",
+            "flags": 0
+        }
+    }
+}

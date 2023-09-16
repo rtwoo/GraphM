@@ -1,0 +1,41 @@
+{
+    "1691081202965869:11223": {
+        "IFileManager": {
+            "path": "Files/File_1691081202965869_11223.lsc"
+        }
+    },
+    "1691081202967826:11225": {
+        "IResourceController": {
+            "name": "UI Scroll View",
+            "type": 32,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1687286293221734:883469",
+            "fileId": "1691081202965869:11223",
+            "originalId": "1691081203085025:11295",
+            "publicId": "1691081203098801:11296",
+            "expected_hash": "e04fffef80bff37de1afdd78b18b5e3f",
+            "resources": [
+                "1691081202969470:11227",
+                "1691081202975741:11252",
+                "1691081203068977:11265",
+                "1691081203072995:11275",
+                "1691081203077764:11285"
+            ]
+        }
+    },
+    "1691081203085025:11295": {
+        "IFileManager": {
+            "path": "Files/File_1691081203085025_11295.lsc"
+        }
+    },
+    "1691081203098801:11296": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Components/UI Scroll View.lsc",
+                "hash": "4077d5f36d8687d02899aab92dcbbc79"
+            }
+        }
+    }
+}

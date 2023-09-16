@@ -1,0 +1,23 @@
+{
+    "1691096883882905:474177": {
+        "IResourceController": {
+            "name": "Examples",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1691096883883234:474178",
+            "resources": [
+                "1685457659612902:965",
+                "1689725716325696:725888"
+            ]
+        }
+    },
+    "1691096883883234:474178": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Examples"
+            }
+        }
+    }
+}

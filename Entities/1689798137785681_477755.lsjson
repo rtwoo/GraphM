@@ -1,0 +1,66 @@
+{
+    "1689798137784124:477754": {
+        "IFileManager": {
+            "path": "Files/File_1689798137784124_477754.png"
+        }
+    },
+    "1689798137785681:477755": {
+        "IResourceController": {
+            "name": "circle_stroked_fill",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1689798137786239:477756",
+            "fileId": "1689798137784124:477754",
+            "originalId": "1689798137788361:477762",
+            "publicId": "1689798137795606:477764",
+            "expected_hash": "5b79467f101024f50e526bba8d59cd60",
+            "additional": {
+                "originHash": "5b79467f101024f50e526bba8d59cd60"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1689798137786239:477756",
+            "name": "Files/File_1689798137784124_477754.png",
+            "flags": 1
+        }
+    },
+    "1689798137786239:477756": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "102400",
+                "compressedSize": "3682",
+                "extension": "png",
+                "originalRAM": "102400",
+                "originalSize": "3682",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1690170178409379:987863"
+        }
+    },
+    "1689798137788361:477762": {
+        "IFileManager": {
+            "path": "Files/File_1689798137788361_477762.png"
+        }
+    },
+    "1689798137795606:477764": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/circle_stroked_fill.png",
+                "hash": "5b79467f101024f50e526bba8d59cd60"
+            }
+        }
+    },
+    "1690170178409379:987863": {
+        "IFileManager": {
+            "path": "Files/File_1690170178409379_987863.png"
+        }
+    }
+}

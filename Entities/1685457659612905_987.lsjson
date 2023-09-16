@@ -1,0 +1,40 @@
+{
+    "1651232771236770:11531551": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "CharacterMap"
+            ]
+        }
+    },
+    "1685457659612905:987": {
+        "IResourceController": {
+            "name": "OpticalCharacterRecognition",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1651232771236770:11531551",
+            "fileId": "1685457659612971:1042",
+            "publicId": "1685457659613247:1102",
+            "expected_hash": "7a7cd8544e3825de3fdaa9ea1873f7b0"
+        },
+        "IResourceManager": {
+            "uid": "1651232771236770:11531551",
+            "name": "Files/File_1685457659612971_1042.js",
+            "flags": 1
+        }
+    },
+    "1685457659612971:1042": {
+        "IFileManager": {
+            "path": "Files/File_1685457659612971_1042.js"
+        }
+    },
+    "1685457659613247:1102": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/OpticalCharacterRecognition.js",
+                "hash": "7a7cd8544e3825de3fdaa9ea1873f7b0"
+            }
+        }
+    }
+}

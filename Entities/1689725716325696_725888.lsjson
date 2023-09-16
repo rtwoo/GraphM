@@ -1,0 +1,38 @@
+{
+    "1689725716323577:725887": {
+        "IFileManager": {
+            "path": "Files/File_1689725716323577_725887.js"
+        }
+    },
+    "1689725716325696:725888": {
+        "IResourceController": {
+            "name": "DetectionDisplayController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1689725716325710:725889",
+            "fileId": "1689725716323577:725887",
+            "publicId": "1691097628792264:584909",
+            "expected_hash": "d573161979838a6b21e1c2aa7054998e"
+        },
+        "IResourceManager": {
+            "uid": "1689725716325710:725889",
+            "name": "Files/File_1689725716323577_725887.js",
+            "flags": 1
+        }
+    },
+    "1689725716325710:725889": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1691097628792264:584909": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Examples/DetectionDisplayController.js",
+                "hash": "d573161979838a6b21e1c2aa7054998e"
+            }
+        }
+    }
+}

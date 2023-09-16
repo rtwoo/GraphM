@@ -1,0 +1,38 @@
+{
+    "1689002505279489:279759": {
+        "IFileManager": {
+            "path": "Files/File_1689002505279489_279759.js"
+        }
+    },
+    "1689002505281098:279760": {
+        "IResourceController": {
+            "name": "CustomHint",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1689002505281109:279761",
+            "fileId": "1689002505279489:279759",
+            "publicId": "1689002505290430:279773",
+            "expected_hash": "c6fcfa71b37f93838cd0001ece0b37f6"
+        },
+        "IResourceManager": {
+            "uid": "1689002505281109:279761",
+            "name": "Files/File_1689002505279489_279759.js",
+            "flags": 1
+        }
+    },
+    "1689002505281109:279761": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1689002505290430:279773": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Hint Resources/Scripts/CustomHint.js",
+                "hash": "c6fcfa71b37f93838cd0001ece0b37f6"
+            }
+        }
+    }
+}

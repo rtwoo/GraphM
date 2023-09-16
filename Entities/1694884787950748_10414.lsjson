@@ -1,0 +1,33 @@
+{
+    "1694884787945710:10412": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Hint Resources/Resources/Resource.ds_store",
+                "hash": "a7af0a1e04a09a23c6c1665cc8d58b66"
+            }
+        }
+    },
+    "1694884787946680:10413": {
+        "IFileManager": {
+            "path": "Files/File_1694884787946680_10413.ds_store"
+        }
+    },
+    "1694884787950748:10414": {
+        "IResourceController": {
+            "name": "Resource",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694884787950768:10415",
+            "fileId": "1694884787946680:10413",
+            "publicId": "1694884787945710:10412",
+            "expected_hash": "a7af0a1e04a09a23c6c1665cc8d58b66"
+        },
+        "IResourceManager": {
+            "uid": "1694884787950768:10415",
+            "name": "Files/File_1694884787946680_10413.ds_store",
+            "flags": 1
+        }
+    }
+}

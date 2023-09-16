@@ -1,0 +1,24 @@
+{
+    "1689105363382970:475977": {
+        "IResourceController": {
+            "name": "Custom Components",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1689105363383207:475979",
+            "resources": [
+                "1689105393181963:491910",
+                "1691081202546663:10654",
+                "1691081202967826:11225"
+            ]
+        }
+    },
+    "1689105363383207:475979": {
+        "IResourceController": {
+            "public": {
+                "path": "Custom Components"
+            }
+        }
+    }
+}
