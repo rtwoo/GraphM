@@ -1,0 +1,39 @@
+{
+    "1694887650150478:534685": {
+        "IResourceController": {
+            "public": {
+                "path": "Text3D Default.lsmat",
+                "hash": "804c1d9ca89027cb442a0e3617bfe8b1"
+            }
+        }
+    },
+    "1694887650243670:534692": {
+        "IFileManager": {
+            "path": "Files/File_1694887650243670_534692"
+        }
+    },
+    "1694887650246639:534693": {
+        "IResourceController": {
+            "name": "Text3D Default",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694887650246644:534694",
+            "fileId": "1694887650243670:534692",
+            "originalId": "1694887650278935:534698",
+            "publicId": "1694887650150478:534685",
+            "expected_hash": "b1d353d33cd2cb2ab88ecf15f632e942"
+        },
+        "IResourceManager": {
+            "uid": "1694887650246644:534694",
+            "name": "Files/File_1694887650243670_534692",
+            "flags": 1
+        }
+    },
+    "1694887650278935:534698": {
+        "IFileManager": {
+            "path": "Files/File_1694887650278935_534698.lsmat"
+        }
+    }
+}

@@ -262,7 +262,7 @@
             },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
-            "input_stream_type": "Image",
+            "input_stream_type": "Video",
             "preview_images_project_config": {
                 "back_preview_id": "project:Images\/ocr.png",
                 "back_preview_is_favorite": "false",
@@ -270,7 +270,7 @@
                 "front_preview_is_favorite": "false"
             },
             "preview_videos_project_config": {
-                "back_preview_id": "project:Videos\/ocr.mp4",
+                "back_preview_id": "local:C:\/Users\/downinthough\/Documents\/.PERSONAL\/.SCHOOL\/.EXTRA\/DEVILSINVENT\/Fall23\/GraphM\/IMG_5605.mp4",
                 "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
                 "front_preview_is_favorite": "false"
