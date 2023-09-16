@@ -15,7 +15,7 @@
             "fileId": "1694888020783253:55336",
             "originalId": "1694888020809816:55344",
             "publicId": "1694888020989424:55438",
-            "expected_hash": "c81c7291d030b7657e4d72022fa8b8c8"
+            "expected_hash": "b1d353d33cd2cb2ab88ecf15f632e942"
         },
         "IResourceManager": {
             "uid": "1694888020784036:55338",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Text3D Default 2.lsmat",
-                "hash": "7141cede5768cd7af41ad636697df508"
+                "hash": "a691ef68c65c862a28a89f2d7e12dad2"
             }
         }
     }

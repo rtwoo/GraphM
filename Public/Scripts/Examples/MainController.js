@@ -9,6 +9,7 @@
 
 // @ui {"widget":"label", "label":"<b>Detection Display</b>"}
 // @input SceneObject displayObject {"hint" : "Object with s Screen Transform on it used to display detection boxes on the screen"}
+// @input Component.Text3D textObject
 // @input int amount = 10 {"widget":"slider", "min":1, "max":50, "step":1 }
 // @ui {"widget":"separator"}
 // @input bool editConnections = false
@@ -68,10 +69,10 @@ function initialize() {
         freezeTextureEvent = script.createEvent("DelayedCallbackEvent");
         freezeTextureEvent.bind(() => {
             script.inputCamera.enabled = false;
+            setUIState(State.Hint);
+            detect();
         });
     }
-    setUIState(State.Hint);
-    detect();
 }
 /**
  * 
@@ -141,9 +142,16 @@ function recognize() {
     // get text from detections
     let lines = script.ocrController.getDetectedText(boxes);
     // set result to the text component, print each detected text from new line
-    script.outputText.text = lines.join("\n");
+    // script.outputText.text = lines.join("\n");
+    script.textObject.text = lines.join(" ");
+    Studio.log("Set text to: " + lines.join(" "));
     // update visuals to display text 
     updateDetections(boxes, lines);
+
+    // // print results
+    // for (var i = 0; i < boxes.length; i++) {
+    //     Studio.log(i + ". Text: \"" + lines[i] + "\"" + ", Detected Rectangle " + boxes[i]);
+    // }
 
     global.onRecognitionModeEvent.trigger();
 
@@ -193,9 +201,12 @@ function checkInputs() {
 }
 
 function setUIState(state) {
-    script.detectionScreen.enabled = state == State.Detection;
-    script.recognitionScreen.enabled = state == State.Recognition;
-    script.editScreen.enabled = state == State.Edit;
+    // script.detectionScreen.enabled = state == State.Detection;
+    // script.recognitionScreen.enabled = state == State.Recognition;
+    // script.editScreen.enabled = state == State.Edit;
+    script.detectionScreen.enabled = true;
+    script.recognitionScreen.enabled = false;
+    script.editScreen.enabled = state == false;
 }
 
 script.showDetectionUI = () => setUIState(State.Detection);

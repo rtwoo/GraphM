@@ -3,7 +3,7 @@
         "IResourceController": {
             "public": {
                 "path": "Text3D Default.lsmat",
-                "hash": "98f133f93e0813d1ab964a1c6e3abd86"
+                "hash": "09d16c1c5a77733cbd1162f06e957058"
             }
         }
     },
@@ -23,7 +23,7 @@
             "fileId": "1694887650243670:534692",
             "originalId": "1694887650278935:534698",
             "publicId": "1694887650150478:534685",
-            "expected_hash": "c81c7291d030b7657e4d72022fa8b8c8"
+            "expected_hash": "b1d353d33cd2cb2ab88ecf15f632e942"
         },
         "IResourceManager": {
             "uid": "1694887650246644:534694",
