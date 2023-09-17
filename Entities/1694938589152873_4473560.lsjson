@@ -1,0 +1,39 @@
+{
+    "1694938589151092:4473559": {
+        "IFileManager": {
+            "path": "Files/File_1694938589151092_4473559"
+        }
+    },
+    "1694938589152873:4473560": {
+        "IResourceController": {
+            "name": "SVGMat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694938589152880:4473561",
+            "fileId": "1694938589151092:4473559",
+            "originalId": "1694938589192973:4473567",
+            "publicId": "1694938590480661:4473981",
+            "expected_hash": "d9f476183f34b7013d4c658c014833c3"
+        },
+        "IResourceManager": {
+            "uid": "1694938589152880:4473561",
+            "name": "Files/File_1694938589151092_4473559",
+            "flags": 1
+        }
+    },
+    "1694938589192973:4473567": {
+        "IFileManager": {
+            "path": "Files/File_1694938589192973_4473567.lsmat"
+        }
+    },
+    "1694938590480661:4473981": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/asu/Materials/SVGMat.lsmat",
+                "hash": "7ed904d79150ba221d3d9d1df66e1f6b"
+            }
+        }
+    }
+}

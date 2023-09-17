@@ -1,0 +1,30 @@
+{
+    "1694927852106966:3174797": {
+        "IResourceController": {
+            "name": "Circut",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1694927852106885:3174781",
+            "fileId": "1694927852156898:3174817",
+            "originalId": "1694930317471026:3472771",
+            "expected_hash": "a2cf6c47295826203a9d9027396de5e2"
+        },
+        "IResourceManager": {
+            "uid": "1694927852106885:3174781",
+            "name": "Circut",
+            "flags": 0
+        }
+    },
+    "1694927852156898:3174817": {
+        "IFileManager": {
+            "path": "Files/File_1694927852156898_3174817.oprfb"
+        }
+    },
+    "1694930317471026:3472771": {
+        "IFileManager": {
+            "path": "Files/File_1694930317471026_3472771.oprfb"
+        }
+    }
+}

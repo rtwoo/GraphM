@@ -1,0 +1,39 @@
+{
+    "1694926828587766:3039856": {
+        "IFileManager": {
+            "path": "Files/File_1694926828587766_3039856"
+        }
+    },
+    "1694926828589713:3039857": {
+        "IResourceController": {
+            "name": "Keyboard",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694926828589720:3039858",
+            "fileId": "1694926828587766:3039856",
+            "originalId": "1694926828636761:3039864",
+            "publicId": "1694926829297170:3040107",
+            "expected_hash": "d9f476183f34b7013d4c658c014833c3"
+        },
+        "IResourceManager": {
+            "uid": "1694926828589720:3039858",
+            "name": "Files/File_1694926828587766_3039856",
+            "flags": 1
+        }
+    },
+    "1694926828636761:3039864": {
+        "IFileManager": {
+            "path": "Files/File_1694926828636761_3039864.lsmat"
+        }
+    },
+    "1694926829297170:3040107": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/laptop/Materials/Keyboard.lsmat",
+                "hash": "485d827e4846eb4acf84397bb31de72e"
+            }
+        }
+    }
+}

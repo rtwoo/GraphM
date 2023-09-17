@@ -1,0 +1,42 @@
+{
+    "1694909464901148:29183": {
+        "IFileManager": {
+            "path": "Files/File_1694909464901148_29183"
+        }
+    },
+    "1694909464902708:29184": {
+        "IResourceController": {
+            "name": "touch collision",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694909464902714:29185",
+            "fileId": "1694909464901148:29183",
+            "originalId": "1694909464950601:29191",
+            "publicId": "1694918668186681:1513540",
+            "expected_hash": "af6b298f22ea5f4c36ab3dca0bdd8f44",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694909464902714:29185",
+            "name": "Files/File_1694909464901148_29183",
+            "flags": 1
+        }
+    },
+    "1694909464950601:29191": {
+        "IFileManager": {
+            "path": "Files/File_1694909464950601_29191.lsmat"
+        }
+    },
+    "1694918668186681:1513540": {
+        "IResourceController": {
+            "public": {
+                "path": "WorldObjectController/Materials/touch collision.lsmat",
+                "hash": "31501733ccc51735370943132a11c497"
+            }
+        }
+    }
+}

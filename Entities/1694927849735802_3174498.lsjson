@@ -1,0 +1,50 @@
+{
+    "1694927849735802:3174498": {
+        "IResourceController": {
+            "name": "Circut",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1694927852162101:3174818",
+            "publicId": "1694927852205082:3174823",
+            "expected_hash": "8e46eb00fdb9c484ab6bfdb53a885db1",
+            "resources": [
+                "1694927851441078:3174641",
+                "1694927851468039:3174666",
+                "1694927852106966:3174797"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1694927851471754:3174669"
+                    }
+                ]
+            }
+        }
+    },
+    "1694927852162101:3174818": {
+        "IFileManager": {
+            "path": "Files/File_1694927852162101_3174818.fbx"
+        }
+    },
+    "1694927852205082:3174823": {
+        "IResourceController": {
+            "public": {
+                "path": "Circut.fbx",
+                "hash": "8e46eb00fdb9c484ab6bfdb53a885db1"
+            }
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "1694933593126043:3903768": {
+        "IFileManager": {
+            "path": "Files/File_1694933593126043_3903768.png"
+        }
+    },
+    "1694933593129352:3903769": {
+        "IResourceController": {
+            "name": "asu_fultonengineering_vert_rgb_maroongold_300px",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694933593134967:3903770",
+            "fileId": "1694933593126043:3903768",
+            "originalId": "1694933593135677:3903775",
+            "publicId": "1694933593156928:3903777",
+            "expected_hash": "7a5da0003ba6439a71cb5b4a67ae9011",
+            "additional": {
+                "originHash": "7a5da0003ba6439a71cb5b4a67ae9011"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694933593134967:3903770",
+            "name": "Files/File_1694933593126043_3903768.png",
+            "flags": 1
+        }
+    },
+    "1694933593134967:3903770": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "434400",
+                "compressedSize": "82373",
+                "extension": "png",
+                "originalRAM": "434400",
+                "originalSize": "82373",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1694933593140728:3903776"
+        }
+    },
+    "1694933593135677:3903775": {
+        "IFileManager": {
+            "path": "Files/File_1694933593135677_3903775.png"
+        }
+    },
+    "1694933593140728:3903776": {
+        "IFileManager": {
+            "path": "Files/File_1694933593140728_3903776.png"
+        }
+    },
+    "1694933593156928:3903777": {
+        "IResourceController": {
+            "public": {
+                "path": "asu_fultonengineering_vert_rgb_maroongold_300px.png",
+                "hash": "7a5da0003ba6439a71cb5b4a67ae9011"
+            }
+        }
+    }
+}

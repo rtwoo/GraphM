@@ -1,0 +1,22 @@
+{
+    "1694926828586985:3039855": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694926829294328:3040106",
+            "resources": [
+                "1694926828589713:3039857"
+            ]
+        }
+    },
+    "1694926829294328:3040106": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/laptop/Materials"
+            }
+        }
+    }
+}

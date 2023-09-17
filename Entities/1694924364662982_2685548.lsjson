@@ -1,0 +1,50 @@
+{
+    "1694924364662982:2685548": {
+        "IResourceController": {
+            "name": "untitled2",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1694924366774702:2685892",
+            "publicId": "1694924366801352:2685895",
+            "expected_hash": "438db849ae034cf233881a905b56c00f",
+            "resources": [
+                "1694924366045431:2685711",
+                "1694924366077211:2685729",
+                "1694924366716807:2685869"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1694924366080110:2685732"
+                    }
+                ]
+            }
+        }
+    },
+    "1694924366774702:2685892": {
+        "IFileManager": {
+            "path": "Files/File_1694924366774702_2685892.fbx"
+        }
+    },
+    "1694924366801352:2685895": {
+        "IResourceController": {
+            "public": {
+                "path": "untitled2.fbx",
+                "hash": "438db849ae034cf233881a905b56c00f"
+            }
+        }
+    }
+}

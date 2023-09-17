@@ -1,0 +1,22 @@
+{
+    "1694937467652190:4363455": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694937468493849:4363702",
+            "resources": [
+                "1694937467655695:4363457"
+            ]
+        }
+    },
+    "1694937468493849:4363702": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/asulogo1/Materials"
+            }
+        }
+    }
+}

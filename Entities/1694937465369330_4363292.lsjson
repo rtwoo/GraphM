@@ -1,0 +1,50 @@
+{
+    "1694937465369330:4363292": {
+        "IResourceController": {
+            "name": "asulogo1",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1694937468425479:4363689",
+            "publicId": "1694937468487815:4363701",
+            "expected_hash": "9c2591f10916ab8e226647dccdac7184",
+            "resources": [
+                "1694937467615497:4363437",
+                "1694937467652190:4363455",
+                "1694937468360854:4363666"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "SVGMat",
+                        "v": "1694937467655704:4363458"
+                    }
+                ]
+            }
+        }
+    },
+    "1694937468425479:4363689": {
+        "IFileManager": {
+            "path": "Files/File_1694937468425479_4363689.fbx"
+        }
+    },
+    "1694937468487815:4363701": {
+        "IResourceController": {
+            "public": {
+                "path": "asulogo1.fbx",
+                "hash": "9c2591f10916ab8e226647dccdac7184"
+            }
+        }
+    }
+}

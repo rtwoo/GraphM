@@ -1,0 +1,33 @@
+{
+    "1694919723457606:1704525": {
+        "IFileManager": {
+            "path": "Files/File_1694919723457606_1704525.ttf"
+        }
+    },
+    "1694919723462061:1704526": {
+        "IResourceController": {
+            "name": "NHaasGroteskTXPro-65Md",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694919723462086:1704527",
+            "fileId": "1694919723457606:1704525",
+            "publicId": "1694919723465256:1704532",
+            "expected_hash": "f7b5f616ce54bc6b29493ab4b8686ba9"
+        },
+        "IResourceManager": {
+            "uid": "1694919723462086:1704527",
+            "name": "Files/File_1694919723457606_1704525.ttf",
+            "flags": 1
+        }
+    },
+    "1694919723465256:1704532": {
+        "IResourceController": {
+            "public": {
+                "path": "NHaasGroteskTXPro-65Md.ttf",
+                "hash": "f7b5f616ce54bc6b29493ab4b8686ba9"
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1694926829179945:3040077": {
+        "IResourceController": {
+            "name": "laptop",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1694926829179792:3040053",
+            "fileId": "1694926829225582:3040099",
+            "originalId": "1694930317427290:3472747",
+            "expected_hash": "32f0825343ac53166e089bd6f3409683"
+        },
+        "IResourceManager": {
+            "uid": "1694926829179792:3040053",
+            "name": "laptop",
+            "flags": 0
+        }
+    },
+    "1694926829225582:3040099": {
+        "IFileManager": {
+            "path": "Files/File_1694926829225582_3040099.oprfb"
+        }
+    },
+    "1694930317427290:3472747": {
+        "IFileManager": {
+            "path": "Files/File_1694930317427290_3472747.oprfb"
+        }
+    }
+}

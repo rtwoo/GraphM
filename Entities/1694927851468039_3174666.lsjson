@@ -1,0 +1,22 @@
+{
+    "1694927851468039:3174666": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694927852213314:3174824",
+            "resources": [
+                "1694927851471741:3174668"
+            ]
+        }
+    },
+    "1694927852213314:3174824": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Circut/Materials"
+            }
+        }
+    }
+}

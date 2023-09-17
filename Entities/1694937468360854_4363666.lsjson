@@ -1,0 +1,30 @@
+{
+    "1694937468360854:4363666": {
+        "IResourceController": {
+            "name": "asulogo1",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1694937468360602:4363642",
+            "fileId": "1694937468416368:4363688",
+            "originalId": "1694937756797095:4405295",
+            "expected_hash": "4509cd5b2d18e265602167d895f0cbe4"
+        },
+        "IResourceManager": {
+            "uid": "1694937468360602:4363642",
+            "name": "asulogo1",
+            "flags": 0
+        }
+    },
+    "1694937468416368:4363688": {
+        "IFileManager": {
+            "path": "Files/File_1694937468416368_4363688.oprfb"
+        }
+    },
+    "1694937756797095:4405295": {
+        "IFileManager": {
+            "path": "Files/File_1694937756797095_4405295.oprfb"
+        }
+    }
+}

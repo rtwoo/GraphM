@@ -1,0 +1,33 @@
+{
+    "1694919744271533:1710716": {
+        "IFileManager": {
+            "path": "Files/File_1694919744271533_1710716.ttf"
+        }
+    },
+    "1694919744276140:1710717": {
+        "IResourceController": {
+            "name": "NHaasGroteskTXPro-55Rg",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694919744276164:1710718",
+            "fileId": "1694919744271533:1710716",
+            "publicId": "1694919744279036:1710723",
+            "expected_hash": "49bd6b245f901c07ace68047eaea7a1e"
+        },
+        "IResourceManager": {
+            "uid": "1694919744276164:1710718",
+            "name": "Files/File_1694919744271533_1710716.ttf",
+            "flags": 1
+        }
+    },
+    "1694919744279036:1710723": {
+        "IResourceController": {
+            "public": {
+                "path": "NHaasGroteskTXPro-55Rg.ttf",
+                "hash": "49bd6b245f901c07ace68047eaea7a1e"
+            }
+        }
+    }
+}

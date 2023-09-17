@@ -1,0 +1,39 @@
+{
+    "1694917649548629:1377313": {
+        "IFileManager": {
+            "path": "Files/File_1694917649548629_1377313"
+        }
+    },
+    "1694917649550540:1377314": {
+        "IResourceController": {
+            "name": "DoubleColor",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694917649550546:1377315",
+            "fileId": "1694917649548629:1377313",
+            "originalId": "1694917649603377:1377319",
+            "publicId": "1694917649802854:1377328",
+            "expected_hash": "b1d353d33cd2cb2ab88ecf15f632e942"
+        },
+        "IResourceManager": {
+            "uid": "1694917649550546:1377315",
+            "name": "Files/File_1694917649548629_1377313",
+            "flags": 1
+        }
+    },
+    "1694917649603377:1377319": {
+        "IFileManager": {
+            "path": "Files/File_1694917649603377_1377319.lsmat"
+        }
+    },
+    "1694917649802854:1377328": {
+        "IResourceController": {
+            "public": {
+                "path": "DoubleColor.lsmat",
+                "hash": "d7f8b8bb4631c11043663ed6e62774b7"
+            }
+        }
+    }
+}

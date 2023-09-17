@@ -1,0 +1,58 @@
+{
+    "1694940154970728:4763063": {
+        "IResourceController": {
+            "name": "asu11",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1694940158791272:4763839",
+            "publicId": "1694940158857138:4763857",
+            "expected_hash": "65fb3fe300b49e82a4cc01f001f7309f",
+            "resources": [
+                "1694940156786593:4763284",
+                "1694940156904774:4763344",
+                "1694940158723287:4763787"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1694940157573201:4763469"
+                    },
+                    {
+                        "k": "Material 2",
+                        "v": "1694940158041812:4763538"
+                    },
+                    {
+                        "k": "SVGMat",
+                        "v": "1694940156907386:4763349"
+                    }
+                ]
+            }
+        }
+    },
+    "1694940158791272:4763839": {
+        "IFileManager": {
+            "path": "Files/File_1694940158791272_4763839.fbx"
+        }
+    },
+    "1694940158857138:4763857": {
+        "IResourceController": {
+            "public": {
+                "path": "asu11.fbx",
+                "hash": "65fb3fe300b49e82a4cc01f001f7309f"
+            }
+        }
+    }
+}

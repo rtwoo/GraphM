@@ -1,0 +1,50 @@
+{
+    "1694926826797529:3039672": {
+        "IResourceController": {
+            "name": "laptop",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1694926829235319:3040100",
+            "publicId": "1694926829287769:3040105",
+            "expected_hash": "6e548a8f77bc054721ef729aa608fdd5",
+            "resources": [
+                "1694926828559829:3039839",
+                "1694926828586985:3039855",
+                "1694926829179945:3040077"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Keyboard",
+                        "v": "1694926828589720:3039858"
+                    }
+                ]
+            }
+        }
+    },
+    "1694926829235319:3040100": {
+        "IFileManager": {
+            "path": "Files/File_1694926829235319_3040100.fbx"
+        }
+    },
+    "1694926829287769:3040105": {
+        "IResourceController": {
+            "public": {
+                "path": "laptop.fbx",
+                "hash": "6e548a8f77bc054721ef729aa608fdd5"
+            }
+        }
+    }
+}

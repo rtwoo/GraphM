@@ -1,0 +1,38 @@
+{
+    "1694909464696541:29113": {
+        "IFileManager": {
+            "path": "Files/File_1694909464696541_29113.js"
+        }
+    },
+    "1694909464698748:29114": {
+        "IResourceController": {
+            "name": "SendDataToVFX",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694909464698765:29115",
+            "fileId": "1694909464696541:29113",
+            "publicId": "1694909464731445:29127",
+            "expected_hash": "618c4c77f65553e2c905a34563a9a3d6"
+        },
+        "IResourceManager": {
+            "uid": "1694909464698765:29115",
+            "name": "Files/File_1694909464696541_29113.js",
+            "flags": 1
+        }
+    },
+    "1694909464698765:29115": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1694909464731445:29127": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/SendDataToVFX.js",
+                "hash": "618c4c77f65553e2c905a34563a9a3d6"
+            }
+        }
+    }
+}

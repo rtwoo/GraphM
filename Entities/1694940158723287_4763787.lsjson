@@ -1,0 +1,30 @@
+{
+    "1694940158723287:4763787": {
+        "IResourceController": {
+            "name": "asu11",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1694940158723112:4763743",
+            "fileId": "1694940158777705:4763838",
+            "originalId": "1694942710443289:5265232",
+            "expected_hash": "921aeee664fa8b5b7e8293cfeee0038e"
+        },
+        "IResourceManager": {
+            "uid": "1694940158723112:4763743",
+            "name": "asu11",
+            "flags": 0
+        }
+    },
+    "1694940158777705:4763838": {
+        "IFileManager": {
+            "path": "Files/File_1694940158777705_4763838.oprfb"
+        }
+    },
+    "1694942710443289:5265232": {
+        "IFileManager": {
+            "path": "Files/File_1694942710443289_5265232.oprfb"
+        }
+    }
+}

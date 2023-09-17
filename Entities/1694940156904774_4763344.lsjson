@@ -1,0 +1,24 @@
+{
+    "1694940156904774:4763344": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694940158866141:4763859",
+            "resources": [
+                "1694940156907380:4763348",
+                "1694940157573194:4763468",
+                "1694940158041805:4763537"
+            ]
+        }
+    },
+    "1694940158866141:4763859": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/asu11/Materials"
+            }
+        }
+    }
+}
